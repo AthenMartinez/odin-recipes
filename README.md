@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is to make a basic recipe website to increase knowledge and ability with HTML. I hope to demonstrate a firm grasp on html boilerplate, headings, paragraphs, lists, and text modification (bold/italic)
